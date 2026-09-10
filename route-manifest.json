@@ -1,0 +1,122 @@
+[
+  {
+    "id": "home",
+    "translationKey": "home",
+    "locale": "en-US",
+    "routeKind": "home",
+    "url": "/",
+    "alternates": {
+      "en-US": "/"
+    }
+  },
+  {
+    "id": "wiki",
+    "translationKey": "ball-vs-ball-balls",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/balls",
+    "alternates": {
+      "en-US": "/balls"
+    }
+  },
+  {
+    "id": "ball-vs-ball-best-balls",
+    "translationKey": "ball-vs-ball-best-balls",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/best-balls",
+    "alternates": {
+      "en-US": "/best-balls"
+    }
+  },
+  {
+    "id": "guides",
+    "translationKey": "ball-vs-ball-codes",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/codes",
+    "alternates": {
+      "en-US": "/codes"
+    }
+  },
+  {
+    "id": "contact",
+    "translationKey": "contact",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/contact",
+    "alternates": {
+      "en-US": "/contact"
+    }
+  },
+  {
+    "id": "ball-vs-ball-controls",
+    "translationKey": "ball-vs-ball-controls",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/controls",
+    "alternates": {
+      "en-US": "/controls"
+    }
+  },
+  {
+    "id": "faq",
+    "translationKey": "faq",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/faq",
+    "alternates": {
+      "en-US": "/faq"
+    }
+  },
+  {
+    "id": "about",
+    "translationKey": "ball-vs-ball-how-to-play",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/how-to-play",
+    "alternates": {
+      "en-US": "/how-to-play"
+    }
+  },
+  {
+    "id": "privacy-policy",
+    "translationKey": "privacy-policy",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/privacy-policy",
+    "alternates": {
+      "en-US": "/privacy-policy"
+    }
+  },
+  {
+    "id": "terms",
+    "translationKey": "terms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/terms",
+    "alternates": {
+      "en-US": "/terms"
+    }
+  },
+  {
+    "id": "ball-vs-ball-tips",
+    "translationKey": "ball-vs-ball-tips",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/tips",
+    "alternates": {
+      "en-US": "/tips"
+    }
+  },
+  {
+    "id": "ball-vs-ball-updates",
+    "translationKey": "ball-vs-ball-updates",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/updates",
+    "alternates": {
+      "en-US": "/updates"
+    }
+  }
+]
