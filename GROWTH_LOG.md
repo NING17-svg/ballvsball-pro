@@ -6,6 +6,14 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-10 - Adsterra six-unit codes populated
+
+- Task: Fill the standard Adsterra modules with the fixed six real ad values (Native Banner, 728x90, 468x60, 320x50, 160x600, Smartlink) created in the Adsterra publisher account for ballvsball.pro (website id 6043221; placements 31172688–31172693).
+- Files changed: `src/data/ads.ts`.
+- URLs affected: No URL or page route changed; ad placement rendering only.
+- Ad baseline: All six fixed Adsterra keys now contain real, non-empty values supplied by the Adsterra publisher account; the modules that render them continue to live at the builder-prepared positions (responsive 728x90 / 468x60 / 320x50 banner slots, Native Banner after the second content module, 160x600 desktop right rail, Smartlink in the footer).
+- Verification: `npm run verify` (typecheck, lint, template/content/rendered-seo validators) passes; no other site file touched.
+
 ### 2026-08-12 - Static discovery and review freshness baseline added
 
 - Task: Add locale-aware static search, automatic recent updates, visible review dates, and browser metadata/security defaults to the shared template.
